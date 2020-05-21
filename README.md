@@ -1,0 +1,1 @@
+# sigir2020-query-resolution
