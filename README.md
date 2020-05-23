@@ -1,1 +1,3 @@
-# sigir2020-query-resolution
+# Query Resolution for Conversational Search with Limited Supervision (SIGIR 2020)
+
+Coming soon.
