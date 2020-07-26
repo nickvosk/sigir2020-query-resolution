@@ -1,9 +1,14 @@
-# Query Resolution for Conversational Search with Limited Supervision (SIGIR 2020)
+# Query Resolution as Term Classification (QuReTeC)
+
+This repository contains resources for the SIGIR 2020 paper: 
+
+<em> Query Resolution for Conversational Search with Limited Supervision </em> [[pdf]](https://arxiv.org/abs/2005.11723)
+
+by N. Voskarides, D. Li, P. Ren, E. Kanoulas and M. de Rijke.
 
 ## Data
 
 You can find the preprocessed data and the output of QuReTeC and the baselines [here](https://drive.google.com/drive/folders/1lLRrSAins_4ZiwbGYQewz8RtXGILY9LC?usp=sharing).
-
 
 ## Code
 
