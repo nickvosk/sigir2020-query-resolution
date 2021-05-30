@@ -89,4 +89,4 @@ Year = {2020}}
 
 ## Questions
 
-If you have any questions, please contact [Nikos Voskarides](nickvosk@gmail.com)
+If you have any questions, please contact [Nikos Voskarides](mailto:nickvosk@gmail.com)
