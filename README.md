@@ -11,7 +11,7 @@ by N. Voskarides, D. Li, P. Ren, E. Kanoulas and M. de Rijke.
 
 Download [Data](https://drive.google.com/drive/folders/1lLRrSAins_4ZiwbGYQewz8RtXGILY9LC?usp=sharing) in current folder.
 
-Download and unzip [Models](https://drive.google.com/file/d/1BKvRoKnbjWWne8Cp-dfLkQ_6s3SIte1f/view?usp=sharing) in current folder.
+[Model](https://huggingface.co/uva-irlab/quretec)
 
 ### Set up environment
 
